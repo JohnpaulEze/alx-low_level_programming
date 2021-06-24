@@ -1,1 +1,1 @@
-This folder contains debugging
+This folder has to do with debugging
