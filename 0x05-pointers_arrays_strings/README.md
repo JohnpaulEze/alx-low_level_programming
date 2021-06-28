@@ -1,1 +1,1 @@
-This contains arrays
+This directory is about pointers and arrays.
