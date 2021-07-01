@@ -1,0 +1,1 @@
+This repo contains strings, arrays and pointers
